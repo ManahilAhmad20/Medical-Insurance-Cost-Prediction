@@ -74,9 +74,9 @@ My results were:
 
 ## Prediction App
 
-I also created a simple Gradio application.
+I also created a simple web application where users can enter their details and get an estimated medical insurance cost.
 
-The user can enter their:
+The app takes:
 
 - Age
 - BMI
@@ -85,17 +85,22 @@ The user can enter their:
 - Gender
 - Region
 
-and the application gives an estimated insurance cost.
+and uses the trained machine learning model to make the prediction.
 
-## Screenshots
+### Live App
 
-### App Interface
+You can try the prediction app here:
 
-Add your screenshot here.
+ [Medical Insurance Cost Predictor](PASTE-YOUR-STREAMLIT-URL-HERE)
 
-### Prediction Result
+### Screenshots
+#### App Interface
 
-Add your prediction screenshot here.
+![App Interface](lfinally.JPG)
+#### Prediction Result
+
+![Prediction Result](lfinally.JPG)
+
 
 ## Technologies I Used
 
