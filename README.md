@@ -63,6 +63,12 @@ I evaluated the model using four metrics:
 - RMSE
 - R² Score
 
+| Metric | Result |
+|---|---:|
+| MAE | 4181.19 |
+| MSE | 33,596,915.85 |
+| RMSE | 5,796.28 |
+| R² Score | 0.7836 |
 My results were:
 
 | Metric | Result |
